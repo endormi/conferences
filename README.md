@@ -18,6 +18,7 @@ Conferences | Location | Date
 -----------|------|----------
 GitHub Satellite 2020 | Originally Paris, FR (changed to a virtual event) | 6.5.2020
 RedisConf 2020 | Originally San Francisco, CA (changed to a virtual event) | 12.5 - 13.5.2020
+DockerCon 2020 | Originally Austin, TX (changed to a virtual event) | 28.5.2020
 
 <h2 align="center">
 2019
