@@ -19,8 +19,8 @@ Conferences | Location | Date
 GitHub Satellite 2020 | Originally Paris, FR (changed to a virtual event) | 6.5.2020
 RedisConf 2020 | Originally San Francisco, CA (changed to a virtual event) | 12.5 - 13.5.2020
 DockerCon 2020 LIVE with theCUBE | Originally Austin, TX (changed to a virtual event) | 28.5.2020
-ServerlessDays Helsinki 2020 | Helsinki | 19.8.2020
-Slush 2020 | Helsinki | 19.11 - 20.11.2020
+ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8.2020
+Slush 2020 | Helsinki, FI | 19.11 - 20.11.2020
 
 <h2 align="center">
 2019
@@ -28,6 +28,6 @@ Slush 2020 | Helsinki | 19.11 - 20.11.2020
 
 Seminars | Location | Date
 -----------|------|----------
-Talk by Johannes Ahvenniemi - Lead Programmer, Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki | 24.4.2019
-Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility), Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki | 8.5.2019
-AVI Saavutettavuus (**Accesibility**) | Tampere | 1.10.2019
+Talk by Johannes Ahvenniemi - Lead Programmer, Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki, FI | 24.4.2019
+Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility), Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki, FI | 8.5.2019
+AVI Saavutettavuus (**Accesibility**) | Tampere, FI | 1.10.2019
