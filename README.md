@@ -26,7 +26,7 @@ Slush 2020 | Helsinki | 19.11 - 20.11.2020
 2019
 </h2>
 
-Seminars / Events | Location | Date
+Seminars | Location | Date
 -----------|------|----------
 Talk by Johannes Ahvenniemi - Lead Programmer, Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki | 24.4.2019
 Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility), Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki | 8.5.2019
