@@ -14,8 +14,9 @@ My goal is to attend more seminars and start going to conferences.
 2020
 </h2>
 
-Conferences | Location | Date
+Conferences & Seminars | Location | Date
 -----------|------|----------
+9 Steps to Awesome with Kubernetes | Remote | 25.2.2020
 GitHub Satellite 2020 | Originally Paris, FR (changed to a virtual event) | 6.5.2020
 DockerCon 2020 LIVE with theCUBE | Originally Austin, TX (changed to a virtual event) | 28.5.2020
 ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8.2020
