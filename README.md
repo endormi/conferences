@@ -16,8 +16,9 @@ My goal is to attend more seminars and start going to conferences.
 
 Conferences & Seminars | Location | Date
 -----------|------|----------
-9 Steps to Awesome with Kubernetes | Remote | 25.2.2020
-Cybersecurity and Covid-19 | Remote | 1.4.2020
+9 Steps to Awesome with Kubernetes by Burr Sutter | Webinar | 25.2.2020
+Cybersecurity and Covid-19 by F-Secure | Webinar | 1.4.2020
+FREE Online DevOps + JS Conference by Geekle | Remote | 2.4.2020
 GitHub Satellite 2020 | Originally Paris, FR (changed to a virtual event) | 6.5.2020
 DockerCon 2020 LIVE with theCUBE | Originally Austin, TX (changed to a virtual event) | 28.5.2020
 ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8.2020
@@ -31,4 +32,4 @@ Seminars | Location | Date
 -----------|------|----------
 Talk by Johannes Ahvenniemi - Lead Programmer, Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki, FI | 24.4.2019
 Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility), Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki, FI | 8.5.2019
-AVI Saavutettavuus (**Accesibility**) | Tampere, FI | 1.10.2019
+AVI Saavutettavuus (**Accessibility**) | Tampere, FI | 1.10.2019
