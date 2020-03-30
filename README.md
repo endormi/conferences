@@ -6,10 +6,6 @@ Conferences and Seminars
 This is a collection of conferences and seminars (also webinars) I have attended and/or attending relating to tech.
 </p>
 
-<p align="center">
-My goal is to attend more seminars and start going to conferences.
-</p>
-
 <h2 align="center">
 2020
 </h2>
