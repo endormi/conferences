@@ -3,7 +3,7 @@ Conferences and Seminars
 </h1>
 
 <p align="center">
-This is a collection of conferences and seminars I have attended and/or attending relating to tech.
+This is a collection of conferences and seminars (also webinars) I have attended and/or attending relating to tech.
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@ My goal is to attend more seminars and start going to conferences.
 
 Conferences & Seminars | Location | Date
 -----------|------|----------
-9 Steps to Awesome with Kubernetes by Burr Sutter | Webinar | 25.2.2020
-Cyber Security and COVID-19 by F-Secure | Webinar | 1.4.2020
+9 Steps to Awesome with Kubernetes by Burr Sutter | Virtual event | 25.2.2020
+Cyber Security and COVID-19 by F-Secure | Virtual event | 1.4.2020
 FREE Online DevOps + JS Conference by Geekle | Virtual event | 2.4.2020
 GitHub Satellite 2020 | Virtual event | 6.5.2020
 DockerCon 2020 LIVE with theCUBE | Virtual event | 28.5.2020
