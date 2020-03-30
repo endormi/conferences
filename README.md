@@ -17,10 +17,10 @@ My goal is to attend more seminars and start going to conferences.
 Conferences & Seminars | Location | Date
 -----------|------|----------
 9 Steps to Awesome with Kubernetes by Burr Sutter | Webinar | 25.2.2020
-Cybersecurity and Covid-19 by F-Secure | Webinar | 1.4.2020
-FREE Online DevOps + JS Conference by Geekle | Remote | 2.4.2020
-GitHub Satellite 2020 | Originally Paris, FR (changed to a virtual event) | 6.5.2020
-DockerCon 2020 LIVE with theCUBE | Originally Austin, TX (changed to a virtual event) | 28.5.2020
+Cyber Security and COVID-19 by F-Secure | Webinar | 1.4.2020
+FREE Online DevOps + JS Conference by Geekle | Virtual event | 2.4.2020
+GitHub Satellite 2020 | Virtual event | 6.5.2020
+DockerCon 2020 LIVE with theCUBE | Virtual event | 28.5.2020
 ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8.2020
 Slush 2020 | Helsinki, FI | 19.11 - 20.11.2020
 
