@@ -12,11 +12,11 @@ This is a collection of conferences and seminars (also webinars) I have attended
 
 Conferences & Seminars | Location | Date
 -----------|------|----------
-9 Steps to Awesome with Kubernetes by Burr Sutter | Virtual event | 25.2.2020
+9 steps to awesome with Kubernetes/OpenShift presented by Burr Sutter | Virtual event | 25.2.2020
 Cyber Security and COVID-19 by F-Secure | Virtual event | 1.4.2020
 FREE Online DevOps + JS Conference by Geekle | Virtual event | 2.4.2020
-GitHub Satellite 2020 | Virtual event | 6.5.2020
-DockerCon 2020 LIVE with theCUBE | Virtual event | 28.5.2020
+GitHub Satellite 2020 | Originally Paris, FR (changed to virtual event) | 6.5.2020
+DockerCon 2020 LIVE with theCUBE | Originally Austin, TX (changed to virtual event) | 28.5.2020
 ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8.2020
 Slush 2020 | Helsinki, FI | 19.11 - 20.11.2020
 
