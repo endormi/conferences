@@ -15,11 +15,13 @@ Conferences & Seminars | Location | Date
 Talk by Burr Sutter - Director, Developer Experience, Red Hat - 9 steps to awesome with Kubernetes | Virtual event | 25.2
 Talk by Mikko Hyppönen - CRO, F-Secure - Cyber Security and COVID-19 | Virtual event | 1.4
 FREE Online DevOps + JS Conference by Geekle | Virtual event | 2.4
+Talk by Dom Hazael-Massieux - W3C Staff - What’s new in Web Standards? - Hosted by Samsung | Virtual event | 9.4
+Python Pizza 2020 | Virtual event | 25.4
+PyCon 2020 (publishing online content such as. recorded talks, tutorials, summits & more) | Virtual event | -
 GitHub Satellite 2020 | Virtual event | 6.5
 RedisConf 2020 | Virtual event | 12.5 - 13.5
 DockerCon 2020 LIVE with theCUBE | Virtual event | 28.5
 ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8
-Slush 2020 | Helsinki, FI | 19.11 - 20.11
 
 <h2 align="center">
 2019
