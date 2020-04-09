@@ -15,6 +15,7 @@ Conferences & Seminars | Location | Date
 Talk by Burr Sutter - Director, Developer Experience, Red Hat - 9 steps to awesome with Kubernetes | Remote | 25.2
 Talk by Mikko Hyppönen - CRO, F-Secure - Cyber Security and COVID-19 | Remote | 1.4
 FREE Online DevOps + JS Conference by Geekle | Remote | 2.4
+VirSecCon 2020 | Remote | 4.4
 Talk by Dom Hazael-Massieux - W3C Staff - What’s new in Web Standards? - Hosted by Samsung | Remote | 9.4
 TMHCIsolationCon by The Many Hats Club | Remote | 19.4
 Solving the Five Security Threats: Complete Consumer Protection by F-Secure and Parks Associates | Remote | 21.4
