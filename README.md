@@ -16,8 +16,10 @@ Talk by Burr Sutter - Director, Developer Experience, Red Hat - 9 steps to aweso
 Talk by Mikko Hyppönen - CRO, F-Secure - Cyber Security and COVID-19 | Remote | 1.4
 FREE Online DevOps + JS Conference by Geekle | Remote | 2.4
 Talk by Dom Hazael-Massieux - W3C Staff - What’s new in Web Standards? - Hosted by Samsung | Remote | 9.4
-Python Pizza 2020 | Remote | 25.4
+TMHCIsolationCon by The Many Hats Club | Remote | 19.4
+Solving the Five Security Threats: Complete Consumer Protection by F-Secure and Parks Associates | Remote | 21.4
 PyCon 2020 (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | -
+Python Pizza 2020 | Remote | 25.4
 GitHub Satellite 2020 | Remote | 6.5
 RedisConf 2020 | Remote | 12.5 - 13.5
 DockerCon 2020 LIVE with theCUBE | Remote | 28.5
