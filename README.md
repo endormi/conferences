@@ -10,10 +10,10 @@ This is a collection of conferences and seminars (also webinars) I have attended
 2020
 </h2>
 
-Conferences & Seminars | Location | Date
+Conferences & Webinars | Location | Date
 -----------|------|----------
-Talk by Burr Sutter - Director, Developer Experience, Red Hat - 9 steps to awesome with Kubernetes | Remote | 25.2
-Talk by Mikko Hyppönen - CRO, F-Secure - Cyber Security and COVID-19 | Remote | 1.4
+Talk by Burr Sutter - Director, Developer Experience at Red Hat - 9 steps to awesome with Kubernetes | Remote | 25.2
+Talk by Mikko Hyppönen - CRO at F-Secure - Cyber Security and COVID-19 | Remote | 1.4
 FREE Online DevOps + JS Conference by Geekle | Remote | 2.4
 VirSecCon 2020 | Remote | 4.4
 Talk by Dom Hazael-Massieux - W3C Staff - What’s new in Web Standards? - Hosted by Samsung | Remote | 9.4
@@ -32,6 +32,6 @@ ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8
 
 Seminars | Location | Date
 -----------|------|----------
-Talk by Johannes Ahvenniemi - Lead Programmer, Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki, FI | 24.4
-Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility), Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki, FI | 8.5
+Talk by Johannes Ahvenniemi - Lead Programmer at Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki, FI | 24.4
+Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility) at Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki, FI | 8.5
 AVI Saavutettavuus (**Accessibility**) | Tampere, FI | 1.10
