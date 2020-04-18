@@ -6,6 +6,11 @@ Conferences and Seminars
 Collection of conferences and seminars (also webinars) I have attended and/or attending relating to tech & code.
 </p>
 
+Type | Attended/Attending
+:------:|:-------:
+Conferences | 8
+Seminars & Webinars | 7
+
 <h2 align="center">
 2020
 </h2>
