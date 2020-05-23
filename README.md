@@ -8,7 +8,7 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 8
+Conferences | 9
 Seminars & Webinars | 7
 
 <h2 align="center">
@@ -28,6 +28,7 @@ Webinar | Solving the Five Security Threats: Complete Consumer Protection by F-S
 Conference | Python Pizza 2020 | Remote | 25.4
 Conference | GitHub Satellite 2020 | Remote | 6.5
 Conference | DockerCon 2020 LIVE with theCUBE | Remote | 28.5
+Conference | JSNation | Remote | 18 - 19.6
 Conference | ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8
 
 <h2 align="center">
