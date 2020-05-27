@@ -8,7 +8,7 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 9
+Conferences | 10
 Seminars & Webinars | 7
 
 <h2 align="center">
@@ -20,16 +20,17 @@ Type | About | Location | Date
 Webinar | Talk by Burr Sutter - Director, Developer Experience at Red Hat - 9 steps to awesome with Kubernetes | Remote | 25.2
 Webinar | Talk by Mikko Hyppönen - CRO at F-Secure - Cyber Security and COVID-19 | Remote | 1.4
 Conference | FREE Online DevOps + JS Conference by Geekle | Remote | 2.4
-Conference | VirSecCon 2020 | Remote | 4.4
+Conference | VirSecCon | Remote | 4.4
 Webinar | Talk by Dom Hazael-Massieux - W3C Staff - What’s new in Web Standards? - Hosted by Samsung | Remote | 9.4
-Conference | PyCon 2020 (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | -
+Conference | PyCon (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | -
 Conference | TMHCIsolationCon by The Many Hats Club | Remote | 19.4
 Webinar | Solving the Five Security Threats: Complete Consumer Protection by F-Secure and Parks Associates | Remote | 21.4
-Conference | Python Pizza 2020 | Remote | 25.4
-Conference | GitHub Satellite 2020 | Remote | 6.5
-Conference | DockerCon 2020 LIVE with theCUBE | Remote | 28.5
+Conference | Python Pizza | Remote | 25.4
+Conference | GitHub Satellite | Remote | 6.5
+Conference | DockerCon LIVE with theCUBE | Remote | 28.5
+Conference | Jamstack Conf | Remote | 27 - 28.5
 Conference | JSNation | Remote | 18 - 19.6
-Conference | ServerlessDays Helsinki 2020 | Helsinki, FI | 19.8
+Conference | ServerlessDays Helsinki | Helsinki, FI | 19.8
 
 <h2 align="center">
 2019
