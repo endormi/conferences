@@ -27,8 +27,8 @@ Conference | TMHCIsolationCon by The Many Hats Club | Remote | 19.4
 Webinar | Solving the Five Security Threats: Complete Consumer Protection by F-Secure and Parks Associates | Remote | 21.4
 Conference | Python Pizza | Remote | 25.4
 Conference | GitHub Satellite | Remote | 6.5
-Conference | DockerCon LIVE with theCUBE | Remote | 28.5
 Conference | Jamstack Conf | Remote | 27 - 28.5
+Conference | DockerCon LIVE with theCUBE | Remote | 28.5
 Conference | JSNation | Remote | 18 - 19.6
 Conference | ServerlessDays Helsinki | Helsinki, FI | 19.8
 
