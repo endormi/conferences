@@ -8,7 +8,7 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 9
+Conferences | 8
 Seminars & Webinars | 7
 
 <h2 align="center">
@@ -29,7 +29,6 @@ Conference | Python Pizza | Remote | 25.4
 Conference | GitHub Satellite | Remote | 6.5
 Conference | Jamstack Conf | Remote | 27 - 28.5
 Conference | DockerCon LIVE with theCUBE | Remote | 28.5
-Conference | ServerlessDays Helsinki | Helsinki, FI | 19.8
 
 <h2 align="center">
 2019
