@@ -9,7 +9,7 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 Type | Attended/Attending
 :------:|:-------:
 Conferences | 9
-Seminars & Webinars | 7
+Seminars & Webinars | 8
 
 <h2 align="center">
 2020
@@ -29,6 +29,7 @@ Conference | Python Pizza | Remote | 25.4
 Conference | GitHub Satellite | Remote | 6.5
 Conference | Jamstack Conf | Remote | 27 - 28.5
 Conference | DockerCon LIVE with theCUBE | Remote | 28.5
+Webinar | Talk by Vu Nguyen - Product Advocate at Postman - Postman 101 for Developers | Remote | 9.12
 Conference | GitHub Universe | Remote | 8 - 10.12
 
 <h2 align="center">
