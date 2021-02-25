@@ -8,8 +8,16 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 9
+Conferences | 10
 Seminars & Webinars | 8
+
+<h2 align="center">
+2021
+</h2>
+
+Type | About | Location | Date
+:------:|-----------|:------:|:----------:
+Conference | NahamCon | Remote | 14.3
 
 <h2 align="center">
 2020
