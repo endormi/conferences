@@ -6,9 +6,13 @@ Conferences and Seminars
 Collection of conferences and seminars (also webinars) I have attended and/or attending relating to tech & code.
 </p>
 
+<p align="center">
+Disclaimer: I tend to watch the recordings later, because of the time and date of the conference or webinar/seminar unless it's not remote.
+</p>
+
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 10
+Conferences | 12
 Seminars & Webinars | 8
 
 <h2 align="center">
@@ -18,6 +22,8 @@ Seminars & Webinars | 8
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
 Conference | NahamCon | Remote | 14.3
+Conference | Euruko | Remote | 28 - 29.5
+Conference | PyCon (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | -
 
 <h2 align="center">
 2020
