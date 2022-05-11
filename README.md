@@ -12,8 +12,16 @@ Disclaimer: I tend to watch the recordings later, because of the time and date o
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 13
+Conferences | 14
 Seminars & Webinars | 8
+
+<h2 align="center">
+2022
+</h2>
+
+Type | About | Location | Date
+:------:|-----------|:------:|:----------:
+Conference | DockerCon | Remote | 9 - 11.5
 
 <h2 align="center">
 2021
@@ -22,9 +30,9 @@ Seminars & Webinars | 8
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
 Conference | NahamCon | Remote | 14.3
+Conference | PyCon (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | 22 - 26.3
 Conference | DockerCon | Remote | 27.5
 Conference | Euruko | Remote | 28 - 29.5
-Conference | PyCon (publishing online content such as. recorded talks, tutorials, summits & more) | Remote | -
 
 <h2 align="center">
 2020
