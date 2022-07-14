@@ -61,6 +61,13 @@ Conference | GitHub Universe | Remote | 8 - 10.12
 
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
+Seminar | AVI Saavutettavuus (**Accessibility**) | Tampere, FI | 1.10
+
+<h2 align="center">
+2018
+</h2>
+
+Type | About | Location | Date
+:------:|-----------|:------:|:----------:
 Seminar | Talk by Johannes Ahvenniemi - Lead Programmer at Seriously Digital Entertainment - Peliohjelmointi (Game Dev) | Helsinki, FI | 24.4
 Seminar | Talk by Tuomas Paasonen - Yritysvastuu (Company responsibility) at Futurice - Kuinka löytää unelmatyö IT:stä? (How to find a dream job in IT?) | Helsinki, FI | 8.5
-Seminar | AVI Saavutettavuus (**Accessibility**) | Tampere, FI | 1.10
