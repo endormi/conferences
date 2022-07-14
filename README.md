@@ -10,10 +10,14 @@ Collection of conferences and seminars (also webinars) I have attended and/or at
 Disclaimer: I tend to watch the recordings later, because of the time and date of the conference or webinar/seminar unless it's not remote.
 </p>
 
+<p align="center">
+NOTE: I have included summits as well.
+</p>
+
 Type | Attended/Attending
 :------:|:-------:
 Conferences | 14
-Seminars & Webinars | 8
+Seminars, Webinars & Summits | 10
 
 <h2 align="center">
 2022
@@ -22,6 +26,8 @@ Seminars & Webinars | 8
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
 Conference | DockerCon | Remote | 9 - 11.5
+Summit | PyGeekle | Remote | 6 - 7.9
+Summit | DevOps Global Summit by Geekle | Remote | 4 - 5.10
 
 <h2 align="center">
 2021
