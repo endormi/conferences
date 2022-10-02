@@ -16,7 +16,7 @@ NOTE: I have included summits as well.
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences | 14
+Conferences | 15
 Seminars, Webinars & Summits | 10
 
 <h2 align="center">
@@ -28,7 +28,7 @@ Type | About | Location | Date
 Conference | DockerCon | Remote | 9 - 11.5
 Summit | PyGeekle | Remote | 6 - 7.9
 Summit | DevOps Global Summit by Geekle | Remote | 4 - 5.10
-_ | GitHub Universe: Beyond Code | Remote | 9 - 10.11
+Conference | GitHub Universe: Beyond Code | Remote | 9 - 10.11
 
 <h2 align="center">
 2021
