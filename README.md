@@ -12,7 +12,15 @@ Disclaimer: I tend to watch the recordings later, because of the time and date o
 
 Type | Attended/Attending
 :------:|:-------:
-Conferences & Summits | 17
+Conferences & Summits | 18
+
+<h2 align="center">
+2023
+</h2>
+
+Type | About | Location | Date
+:------:|-----------|:------:|:----------:
+Conference | GitHub Universe | Remote | 8 - 9.11
 
 <h2 align="center">
 2022
