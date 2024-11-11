@@ -10,21 +10,43 @@ Collection of conferences and summits I have attended and/or attending relating 
 Disclaimer: I tend to watch the recordings later, because of the time and date of the conference or summit unless it's not remote.
 </p>
 
+<center>
+
 Type | Attended/Attending
 :------:|:-------:
-Conferences & Summits | 18
+Conferences & Summits | 19
+
+</center>
+
+<h2 align="center">
+2024
+</h2>
+
+<center>
+
+Type | About | Location | Date
+:------:|-----------|:------:|:----------:
+Conference | GitHub Universe | Remote | 29 - 30.10
+
+</center>
 
 <h2 align="center">
 2023
 </h2>
 
+<center>
+
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
 Conference | GitHub Universe | Remote | 8 - 9.11
 
+</center>
+
 <h2 align="center">
 2022
 </h2>
+
+<center>
 
 Type | About | Location | Date
 :------:|-----------|:------:|:----------:
@@ -32,6 +54,8 @@ Conference | DockerCon | Remote | 9 - 11.5
 Summit | PyGeekle | Remote | 6 - 7.9
 Summit | DevOps Global Summit by Geekle | Remote | 4 - 5.10
 Conference | GitHub Universe: Beyond Code | Remote | 9 - 10.11
+
+</center>
 
 <h2 align="center">
 2021
